@@ -1,0 +1,16 @@
+body {
+    background-color: cyan;
+  }
+  h1 {
+    color: rgb(200, 88, 58);
+  }
+
+div {
+    background-color: royalblue;
+    border-style: solid;
+    border: color #ff6347;;
+    border-radius: 10px;
+}
+.shadow-text{
+    text-shadow: cornflowerblue 1px 1px;
+}
